@@ -1,0 +1,1 @@
+include ':app', ':cardslib-core-2.0.1'

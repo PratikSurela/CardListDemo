@@ -1,0 +1,2 @@
+configurations.create("default")
+artifacts.add("default", file('cardslib-core-2.0.1.aar'))
